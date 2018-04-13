@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/nitishbhatt/AndroidStudioProjects/Personal/KotilnJniSample/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/nitishbhatt/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nitishbhatt/AndroidStudioProjects/Personal/KotilnJniSample/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/nitishbhatt/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nitishbhatt/AndroidStudioProjects/Personal/KotilnJniSample/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/nitishbhatt/AndroidStudioProjects/Personal/KotilnJniSample/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}
